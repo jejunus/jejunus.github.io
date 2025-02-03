@@ -19,7 +19,7 @@ body::after {
     
 }
 
-a {
+a:link {
     color: #35937b;
 }
 </html>

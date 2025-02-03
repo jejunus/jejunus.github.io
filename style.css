@@ -19,7 +19,6 @@ body::after {
     
 }
 
-/* unvisited link */
 a:link {
   color: #35937b;
 

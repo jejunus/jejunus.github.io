@@ -22,20 +22,5 @@ body::after {
 /* unvisited link */
 a:link {
   color: #35937b;
-}
 
-/* visited link */
-a:visited {
-  color: #35937b;
-}
-
-/* mouse over link */
-a:hover {
-  color: #e23814;
-}
-
-/* selected link */
-a:active {
-  color: #e23814;  
-}
 </html>
